@@ -6,7 +6,7 @@ Open spectra with <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fchem
 
 AcmeSoft. V1.
 
-## tests and demo - tecnical part
+## Tests and demo - technical part - to be removed
 
 
 [TO BE REMOVED DECAUE JCAMP WILL NOT BE ON GITHUB in the future ... and because it opens inside the zenodo window... open with nmrium from github site](https://www.nmrium.org/nmrium#?jcamp=https://chemedata.github.io/create-zenodo-archive/data/cyclopropanes/1h.jdx)

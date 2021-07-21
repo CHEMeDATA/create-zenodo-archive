@@ -5,7 +5,7 @@ Will see if works with a nmrium on github.io
 <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885201/files/cyclopropanes.jdx"></object></a> 
  Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885201/files/cyclopropanes.jdx" target="_blank">NMRium</a>(thats not workin yet... working!)
 
-Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885201/files/cyclopropanes.jdx" target="_blank">NMRium on github (to be removed...)</a>(thats working ... working!)
+Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://create-zenodo-archive.github.io/data/cyclopropanes/1h.jdx" target="_blank">NMRium on github (to be removed...)</a>(thats working ... working!)
 
 
 ## more tests
