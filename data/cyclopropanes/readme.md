@@ -1,5 +1,7 @@
 ## detail on cyclopropanes
 
+the spectrum : [./1h.json](./1h.json)
+
  Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885201/files/cyclopropanes.jdx" target="_blank">NMRium</a>(thats not working yet... !)
 
 Open using <a href="https://www.nmrium.org/nmrium#?jcamp=https://create-zenodo-archive.github.io/data/cyclopropanes/1h.jdx" target="_blank">NMRium on github (to be removed...)</a>(thats working ... not working either!)
