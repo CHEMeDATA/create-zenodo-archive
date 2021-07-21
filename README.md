@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Created by
 
-You can use the [editor on GitHub](https://github.com/CHEMeDATA/create-zenodo-archive/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+AcmeSoft. V1.
+# Table of content
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Related zenodo record (when relevant:)
+TO BE SET
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5115432.svg)](https://zenodo.org/record/5115432)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fcheminfo.github.io%2Fnmr-dataset3%2Fmultiplet%2Findex.json
 
-```markdown
-Syntax highlighted code block
+https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fcheminfo.github.io%2Fnmr-dataset3%2Fmultiplet%2Findex.json
 
-# Header 1
-## Header 2
-### Header 3
+[open with nmrium](https://www.nmrium.org/nmrium#?jcamp=https://chemedata.github.io/create-zenodo-archive/data/1h.jdx)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[![DOI](https://img.shields.io/endpoint?url=https://nmredatainitiative.github.io/demoChemedataBadge.json)](https://nmredatainitiative.github.io/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+(content defined by  [https://nmredatainitiative.github.io/demoChemedataBadge.json](https://nmredatainitiative.github.io/demoChemedataBadge.json) )
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CHEMeDATA/create-zenodo-archive/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
