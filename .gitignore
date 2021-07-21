@@ -2,5 +2,6 @@
 *.dadfsf
 *.py
 *.DS_Store
+# only now jdx will be ignored....
 *.jdx
 hiddenFolder
