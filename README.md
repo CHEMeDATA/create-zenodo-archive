@@ -16,3 +16,5 @@ AcmeSoft. V1.
 
 (content defined by  [https://nmredatainitiative.github.io/demoChemedataBadge.json](https://nmredatainitiative.github.io/demoChemedataBadge.json) )
 
+Interesting embeded nmrium for other contexts IS IT OK?!
+<a href=""><object data="https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885201/files/1h.jdx&link=https://chemedata.org&link=https://nmredata.org"></object></a>
