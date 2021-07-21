@@ -25,3 +25,4 @@ no dowwload...
 
 (content defined by  [https://nmredatainitiative.github.io/demoChemedataBadge.json](https://nmredatainitiative.github.io/demoChemedataBadge.json) )
 
+[direct link to cycloprop md page](./data/cyclopropanes/readme.md)
