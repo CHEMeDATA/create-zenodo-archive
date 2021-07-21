@@ -3,11 +3,6 @@
 AcmeSoft. V1.
 # Table of content
 
-Related zenodo record (when relevant:)
-TO BE SET
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5115432.svg)](https://zenodo.org/record/5115432)
-
-
 https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fcheminfo.github.io%2Fnmr-dataset3%2Fmultiplet%2Findex.json
 
 https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fcheminfo.github.io%2Fnmr-dataset3%2Fmultiplet%2Findex.json
