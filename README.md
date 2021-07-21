@@ -3,7 +3,6 @@
 Not working for cycloprop(point to zenodo) but OK for menthol (point to github): open spectra with <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Findex.json" target="_blank">NMRium from github json and one jdx on zenodo</a>
 
 
-
 Not working for cycloprop(point to zenodo) but OK for menthol (point to github): open spectra with <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fsandbox.zenodo.org%2Frecord%2F885367%2Ffiles%2Findex.json" target="_blank">NMRium from github json and one jdx on zenodo</a>
 
 https::/sandbox.zenodo.org/record/885367/files/index.json
@@ -13,17 +12,18 @@ Updated not working : open spectra with <a href="https://www.nmrium.org/nmrium#?
 https://sandbox.zenodo.org/create-zenodo-archive/record/files/cyclopropane.jdx
 
 
-Not working : open cyclopropanes with <a href="https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Fcyclopropanes%2F1H.jdx" target="_blank">NMRium from github</a>
+Not working : open cyclopropanes with <a href="https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Fcyclopropanes%2F1h.jdx" target="_blank">NMRium from github</a>
 
-https://chemedata.github.io/create-zenodo-archive/data/cyclopropanes/1H.jdx
+https://chemedata.github.io/create-zenodo-archive/data/cyclopropanes/1h.jdx
 
 Not working : open cyclopropanes with <a href="https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%sandbox.zenodo.org%2Frecord%2F885311%2Ffiles%2Fcyclopropanes.jdx" target="_blank">NMRium from zenodo</a>
 
 
 
 
-
 https://sandbox.zenodo.org/record/885311/files/cyclopropanes.jdx?download=1
+https://sandbox.zenodo.org/record/885311/files/cyclopropanes.jdx
+
 ## Created by
 
 AcmeSoft. V1.
