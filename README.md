@@ -12,9 +12,11 @@ Updated not working : open spectra with <a href="https://www.nmrium.org/nmrium#?
 https://sandbox.zenodo.org/create-zenodo-archive/record/files/cyclopropane.jdx
 
 
-Not working : open cyclopropanes with <a href="https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Fcyclopropanes%2F1h.jdx" target="_blank">NMRium from github</a>
+Working but to be removed becasue json on github: open menthol with <a href="https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Fmenthol%2F1h.jdx" target="_blank">NMRium from github</a>
 
-https://chemedata.github.io/create-zenodo-archive/data/cyclopropanes/1h.jdx
+https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Fcmenthol%2F1h.jdx
+
+www.nmrium.org/nmrium#?jcamp=https://chemedata.github.io/create-zenodo-archive/data/menthol/1h.jdx
 
 Not working : open cyclopropanes with <a href="https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%sandbox.zenodo.org%2Frecord%2F885311%2Ffiles%2Fcyclopropanes.jdx" target="_blank">NMRium from zenodo</a>
 
