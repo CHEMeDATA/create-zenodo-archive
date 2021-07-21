@@ -3,9 +3,9 @@
 AcmeSoft. V1.
 ## Table of content
 
-[![DOI](https://img.shields.io/endpoint?url=https://nmredatainitiative.github.io/demoChemedataBadge.json)](https://chemedata.github.io/create-zenodo-archive/data/cyclopropanes)
+cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https://nmredatainitiative.github.io/demoChemedataBadge.json)](https://chemedata.github.io/create-zenodo-archive/data/cyclopropanes)
 
-[![DOI](https://img.shields.io/endpoint?url=https://nmredatainitiative.github.io/demoChemedataBadge.json)](https://chemedata.github.io/create-zenodo-archive/data/menthol)
+menthol [![DOI](https://img.shields.io/endpoint?url=https://nmredatainitiative.github.io/demoChemedataBadge.json)](https://chemedata.github.io/create-zenodo-archive/data/menthol)
 
 (content defined by  [https://nmredatainitiative.github.io/demoChemedataBadge.json](https://nmredatainitiative.github.io/demoChemedataBadge.json) )
 
