@@ -10,3 +10,11 @@ no download...
 
 
 <a href="http://nmredata.org/" target="_blank">new window</a>
+
+href link with dowload
+
+<a href="https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885159/files/1h.jdx?download=1" target="_blank">new window</a>
+
+href link withiout dowload
+
+<a href="https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885159/files/1h.jdx" target="_blank">new window</a>
