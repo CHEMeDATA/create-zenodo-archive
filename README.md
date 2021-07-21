@@ -21,7 +21,7 @@ no dowwload...
 [open with nmrium from zenodo ... ok!](https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885159/files/1h.jdx)
 
 
-[![DOI](https://img.shields.io/endpoint?url=https://nmredatainitiative.github.io/demoChemedataBadge.json)](https://nmredatainitiative.github.io/)
+[![DOI](https://img.shields.io/endpoint?url=https://nmredatainitiative.github.io/demoChemedataBadge.json)](https://chemedata.github.io/create-zenodo-archive/data/cyclopropanes/readme.md)
 
 (content defined by  [https://nmredatainitiative.github.io/demoChemedataBadge.json](https://nmredatainitiative.github.io/demoChemedataBadge.json) )
 
