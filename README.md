@@ -1,6 +1,6 @@
 ## Table of content
 
-Not working: open spectra with <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Findex.json" target="_blank">NMRium from github json and one jdx on zenodo</a>
+Not working for cycloprop(point to zenodo) but OK for menthol (point to github): open spectra with <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Findex.json" target="_blank">NMRium from github json and one jdx on zenodo</a>
 
 
 Not working: open spectra with <a href="https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%sandbox.zenodo.org%2Frecord%2F885367%2Ffiles%2Findex.json" target="_blank">NMRium from zenodo json and one jdx on zenodo</a>
