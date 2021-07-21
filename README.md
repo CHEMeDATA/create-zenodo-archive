@@ -1,6 +1,6 @@
 ## Table of content
 
-Not working for cycloprop(point to zenodo) but OK for menthol (point to github): open spectra with <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Findex.json" target="_blank">NMRium from github json and one jdx on zenodo</a>
+Not working for cycloprop(point to zenodo) but (point to github): open spectra with <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Findex.json" target="_blank">NMRium from github json and one jdx on zenodo</a>
 
 
 Not working for cycloprop(point to zenodo) but OK for menthol (point to github): open spectra with <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fsandbox.zenodo.org%2Frecord%2F885367%2Ffiles%2Findex.json" target="_blank">NMRium from github json and one jdx on zenodo</a>
@@ -12,9 +12,7 @@ Updated not working : open spectra with <a href="https://www.nmrium.org/nmrium#?
 https://sandbox.zenodo.org/create-zenodo-archive/record/files/cyclopropane.jdx
 
 
-Working but to be removed becasue json on github: open menthol with <a href="https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Fmenthol%2F1h.jdx" target="_blank">NMRium from github</a>
-
-https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Fcmenthol%2F1h.jdx
+Working but to be removed because json on github: open menthol with <a href="https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Fmenthol%2F1h.jdx" target="_blank">NMRium from github</a> Note: no menthol structure
 
 www.nmrium.org/nmrium#?jcamp=https://chemedata.github.io/create-zenodo-archive/data/menthol/1h.jdx
 
