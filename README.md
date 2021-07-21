@@ -3,12 +3,21 @@
 Open spectra with <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Findex.json" target="_blank">NMRium from github json and one jdx on zenodo</a>
 
 
-Open spectra with <a href="https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%sandbox.zenodo.org%2Frecord%2F885311%2Ffiles%2Findex.json" target="_blank">NMRium from zenodo json and one jdx on zenodo</a>
+Open spectra with <a href="https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%sandbox.zenodo.org%2Frecord%2F885367%2Ffiles%2Findex.json" target="_blank">NMRium from zenodo json and one jdx on zenodo</a>
+
+https://sandbox.zenodo.org/record/885367/files/index.json
+
+
+
 
 Open cyclopropanes with <a href="https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Fcyclopropanes%2F1H.jdx" target="_blank">NMRium from github</a>
 
  
 Open cyclopropanes with <a href="https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%sandbox.zenodo.org%2Frecord%2F885311%2Ffiles%2Fcyclopropanes.jdx" target="_blank">NMRium from zenodo</a>
+
+
+
+
 
 https://sandbox.zenodo.org/record/885311/files/cyclopropanes.jdx?download=1
 ## Created by
