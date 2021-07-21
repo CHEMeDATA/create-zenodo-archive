@@ -2,7 +2,7 @@ const { statSync, readFileSync, readdirSync, writeFileSync } = require('fs');
 const { join } = require('path');
 
 const URL_FOLDER = '.';
-const DATA_FOLDER = 'multiplet';
+const DATA_FOLDER = 'data';
 const DATA_DIR = join(__dirname, DATA_FOLDER);
 
 const dirs = readdirSync(DATA_DIR).filter((dir) => dir.match(/^.*$/)).filter(dir => statSync(join(DATA_DIR, dir)).isDirectory())
