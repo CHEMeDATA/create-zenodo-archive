@@ -1,7 +1,9 @@
 ## Table of content
 
-Open spectra with <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Findex.json" target="_blank">NMRium</a>
+Open spectra with <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Findex.json" target="_blank">NMRium from github (to be eliminated)</a>
 
+
+Open spectra with <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2FindexLinksZenodo.json" target="_blank">NMRium from zenodo </a>
 
 Open cyclopropanes with <a href="https://www.nmrium.org/nmrium#?jcamp=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Fcyclopropanes%2F1H.jdx" target="_blank">NMRium from github</a>
 
