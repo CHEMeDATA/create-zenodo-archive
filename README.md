@@ -3,18 +3,14 @@
 AcmeSoft. V1.
 # Table of content
 
-https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fcheminfo.github.io%2Fnmr-dataset3%2Fmultiplet%2Findex.json
+[TO BE REMOVED DECAUE JCAMP WILL NOT BE ON GITHUB in the future ... and because it opens inside the zenodo window... open with nmrium from github site](https://www.nmrium.org/nmrium#?jcamp=https://chemedata.github.io/create-zenodo-archive/data/cyclopropanes/1h.jdx)
 
-https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fcheminfo.github.io%2Fnmr-dataset3%2Fmultiplet%2Findex.json
+[open with nmrium from zenodo ... npot OK because to small and because of  CORS policy:](https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885159/files/1h.jdx?download=1)
 
-[TO BE REMOVED DECAUE JCAMP WILL NOT BE ON GITHUB... open with nmrium from github site](https://www.nmrium.org/nmrium#?jcamp=https://chemedata.github.io/create-zenodo-archive/data/cyclopropanes/1h.jdx)
 
-[open with nmrium from zenodo ... ok!](https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885159/files/1h.jdx?download=1)
+[open cyclopropanes on github](https://chemedata.github.io/create-zenodo-archive/data/cyclopropanes)
 
-no dowwload...
-
-[open with nmrium from zenodo ... ok!](https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885159/files/1h.jdx)
-
+[open root readme on github](https://chemedata.github.io/create-zenodo-archive/)
 
 [![DOI](https://img.shields.io/endpoint?url=https://nmredatainitiative.github.io/demoChemedataBadge.json)](https://chemedata.github.io/create-zenodo-archive/data/cyclopropanes)
 
