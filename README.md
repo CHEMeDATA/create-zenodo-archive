@@ -14,9 +14,11 @@ https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fcheminfo.github.io%2Fnmr-datase
 
 [TO BE REMOVED DECAUE JCAMP WILL NOT BE ON GITHUB... open with nmrium from github site](https://www.nmrium.org/nmrium#?jcamp=https://chemedata.github.io/create-zenodo-archive/data/cyclopropanes/1h.jdx)
 
-[open with nmrium](https://www.nmrium.org/nmrium#?jcamp=https://chemedata.github.io/create-zenodo-archive/data/cyclopropanes/1h.jdx)
+[open with nmrium from zenodo ... ok!](https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885159/files/1h.jdx?download=1)
 
+no dowwload...
 
+[open with nmrium from zenodo ... ok!](https://www.nmrium.org/nmrium#?jcamp=https://sandbox.zenodo.org/record/885159/files/1h.jdx)
 
 
 [![DOI](https://img.shields.io/endpoint?url=https://nmredatainitiative.github.io/demoChemedataBadge.json)](https://nmredatainitiative.github.io/)
