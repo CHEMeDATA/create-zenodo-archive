@@ -2,7 +2,8 @@
   {
     "file": "./cyclopropanes/1h.json",
     "title": "cyclopropane derivatives",
-    "view": ""
+    "view": "",
+    "selected": true
   },
   {
     "file": "./menthol/1h.json",
