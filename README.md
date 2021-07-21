@@ -1,3 +1,6 @@
+As of Tuesday evening:
+[https://sandbox.zenodo.org/record/885399](https://sandbox.zenodo.org/record/885399)
+
 ## Table of content
 
 Not working for cycloprop(point to zenodo) but (point to github): open spectra with <a href="https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fchemedata.github.io%2Fcreate-zenodo-archive%2Fdata%2Findex.json" target="_blank">NMRium from github json and one jdx on zenodo</a>
