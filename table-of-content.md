@@ -5,6 +5,11 @@ AcmeSoft. V1.
 
 cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#chemobjectName_hashCode)
 
+or ??
+
+cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https://registry.archiveforge.org/registry/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#chemobjectName_hashCode)
+
+
 menthol [![DOI](https://img.shields.io/endpoint?url=https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemNoData.json)](https://chemedata.github.io/create-zenodo-archive/data/menthol)
 
 (content defined by  [https://nmredatainitiative.github.io/demoChemedataBadge.json](https://nmredatainitiative.github.io/demoChemedataBadge.json) )
