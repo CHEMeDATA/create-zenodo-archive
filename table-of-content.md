@@ -9,6 +9,13 @@ or ??
 
 cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https://registry.archiveforge.org/registry/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#chemobjectName_hashCode)
 
+test badge green spectrumWithNMReDATA.json
+
+
+cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https://registry.archiveforge.org/registry/chemistry/v0.1/doi_Prefix/doi_Suffix/spectrumWithNMReDATA.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#chemobjectName_hashCode)
+
+
+
 
 menthol [![DOI](https://img.shields.io/endpoint?url=https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemNoData.json)](https://chemedata.github.io/create-zenodo-archive/data/menthol)
 
