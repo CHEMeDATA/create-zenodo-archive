@@ -1,18 +1,11 @@
-This will endup in the zenodo preview section
-from create-zenodo-archive : ./table-of-content.md
 
-Only pure markdown, no href...
 ## Created by
 AcmeSoft. V1.
+
+[Derived data](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix)
 ## Table of content
 
-Nice: shows embeded stuf... same for swissmaps 
-[Derived data](https://chemedata.github.io/create-zenodo-archive/)
-
-New 
-[Derived data](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix)
-
-new chekc work cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#chemobjectName_hashCodeOfCyclopropane)
+new chekc work cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
 
 or ??
 
@@ -34,4 +27,12 @@ menthol [![DOI](https://img.shields.io/endpoint?url=https://registry.archiveforg
 
 (content defined by  [https://nmredatainitiative.github.io/demoChemedataBadge.json](https://nmredatainitiative.github.io/demoChemedataBadge.json) )
 
+## technical information 
 
+This will endup in the zenodo preview section
+from create-zenodo-archive : ./table-of-content.md
+
+Only pure markdown, no href...
+
+Shows embeded stuf... same for swissmaps 
+[old demo emebeded stuff](https://chemedata.github.io/create-zenodo-archive/)
