@@ -1,16 +1,21 @@
 Files identified by John Doe using [ArchiveForge ***Pro***](https://archiveforge.github.io/) or  [ArchiveForge *Light*](https://archiveforge.github.io/) v0.1.
 
-Data source: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5081742.svg)](https://doi.org/10.5281/zenodo.5081742)
+Source of data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5081742.svg)](https://doi.org/10.5281/zenodo.5081742)
 
-Reference: [D. Jeannerat, C. Cobas, ***Magn. Reson***. *2021*, **2**, 545-555.](https://mr.copernicus.org/articles/2/545/2021/mr-2-545-2021-discussion.html)
+Related publication: [D. Jeannerat, C. Cobas, ***Magn. Reson***. *2021*, **2**, 545-555.](https://mr.copernicus.org/articles/2/545/2021/mr-2-545-2021-discussion.html)
+
+Related publication: [D. Jeannerat, C. Cobas, ***Magn. Reson***. *2021*, **2**, 545-555.](https://doi.org/10.5194/mr-2-545-2021)
+
+
 
 ## Table of Content 
-[All derived data](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix)
 
 Keyfile|Derived data
 -----|----
  [1](https://connect.archiveforge.org/connect?keyfileTO-Be_insertedHere)| [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
  [2](https://connect.archiveforge.org/connect?keyfileTO-Be_insertedHere) | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
+
+[All derived data](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix)
 
 ## Technical information 
 
