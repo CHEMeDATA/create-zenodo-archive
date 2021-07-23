@@ -1,9 +1,11 @@
-### Table of content
+### Identified files
 
-Item|Identified object
+Files identified by J. Doer using the [Acmesoft](archiveforge.org) v0.1.
+
+Keyfile|Identified object
 -----|----
- [1](https://connect.archiveforge.org/connect?keyfile)| [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
-  | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
+ [1](https://connect.archiveforge.org/connect?keyfileTO-Be_insertedHere)| [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
+ [2](https://connect.archiveforge.org/connect?keyfileTO-Be_insertedHere) | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
 
 Menthol | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#menthol)
 
