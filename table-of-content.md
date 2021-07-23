@@ -1,17 +1,19 @@
 ### Identified files
 
-Files identified by J. Doer using the [Acmesoft](https://archiveforge.github.io/) v0.1.
+Files identified by John Doe using [ArchiveForge ***Pro***](https://archiveforge.github.io/) or  [ArchiveForge *Light*](https://archiveforge.github.io/) v0.1.
+
+Source: HERE INSERT DOI OF SOURCE
+
+Reference: HERE insert DOI and nicely formated text of OF RELATED SOURCE (typically a paper)
 
 Keyfile|Identified object
 -----|----
- [Mixture of two cyclopropane derivatives](https://connect.archiveforge.org/connect?keyfileTO-Be_insertedHere)| [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
+ [1](https://connect.archiveforge.org/connect?keyfileTO-Be_insertedHere)| [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
  [2](https://connect.archiveforge.org/connect?keyfileTO-Be_insertedHere) | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
 
-
+## technical information 
 
 (content defined by  [https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json](https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json) )
-
-## technical information 
 
 This will endup in the zenodo preview section
 from create-zenodo-archive : ./table-of-content.md
