@@ -1,40 +1,15 @@
 ### Identified files
 
-Files identified by J. Doer using the [Acmesoft](https://archiveforge.org/) v0.1.
+Files identified by J. Doer using the [Acmesoft](https://archiveforge.github.io/) v0.1.
 
 Keyfile|Identified object
 -----|----
- [1](https://connect.archiveforge.org/connect?keyfileTO-Be_insertedHere)| [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
+ [Mixture of two cyclopropane derivatives](https://connect.archiveforge.org/connect?keyfileTO-Be_insertedHere)| [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
  [2](https://connect.archiveforge.org/connect?keyfileTO-Be_insertedHere) | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
 
-Menthol | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#menthol)
-
-cyclopropanes | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
-cyclopropanes | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#menthol)
 
 
-
-new chekc work cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
-
-or ??
-
-cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https://registry.archiveforge.org/registry/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
-
-test badge green spectrumWithNMReDATA.json
-
-Test of link to anchor on chemobjectName_hashCodeOfCyclopropane
-[details on menthol](#chemobjectName_hashCodeOfCyclopropane)
-
-cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https://registry.archiveforge.org/registry/chemistry/v0.1/doi_Prefix/doi_Suffix/spectrumWithNMReDATA.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#chemobjectName_hashCode)
-
-
-
-
-menthol [![DOI](https://img.shields.io/endpoint?url=https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemNoData.json)](https://chemedata.github.io/create-zenodo-archive/data/menthol)
-
-
-
-(content defined by  [https://nmredatainitiative.github.io/demoChemedataBadge.json](https://nmredatainitiative.github.io/demoChemedataBadge.json) )
+(content defined by  [https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json](https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json) )
 
 ## technical information 
 
