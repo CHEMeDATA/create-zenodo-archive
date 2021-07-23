@@ -1,19 +1,9 @@
+### Table of content
 
-## Created by
-AcmeSoft. V1.
-
-[Derived data](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix)
-## Table of content
-
-ame|data
+Key file|Identified object
 -----|----
-name|data|
-name2|data2
-
-name|data
------|----
-cyclopropanes | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
-cyclopropanes | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#menthol)
+Cyclopropanes  fdas fd dfas fd fds dfs fdas fd df df dfa df dfs dfs dfs adsf adf dfs dsf | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
+Menthol | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#menthol)
 
 cyclopropanes | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
 cyclopropanes | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#menthol)
@@ -51,3 +41,8 @@ Only pure markdown, no href...
 
 Shows embeded stuf... same for swissmaps 
 [old demo emebeded stuff](https://chemedata.github.io/create-zenodo-archive/)
+
+### Created by
+AcmeSoft. V1.
+
+[Derived data](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix)
