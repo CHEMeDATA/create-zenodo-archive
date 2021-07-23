@@ -6,6 +6,9 @@ Related publication: [D. Jeannerat, C. Cobas, ***Magn. Reson***. *2021*, **2**, 
 
 Related publication: [D. Jeannerat, C. Cobas, ***Magn. Reson***. *2021*, **2**, 545-555.](https://doi.org/10.5194/mr-2-545-2021)
 
+Data source: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5081742.svg)](https://doi.org/10.5281/zenodo.5081742)
+
+Files identified by John Doe using [ArchiveForge ***Pro***](https://archiveforge.github.io/) or  [ArchiveForge *Light*](https://archiveforge.github.io/) v0.1.
 
 
 ## Table of Content 
