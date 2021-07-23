@@ -16,7 +16,7 @@ new chekc work cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https:/
 
 or ??
 
-cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https://registry.archiveforge.org/registry/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#chemobjectName_hashCode)
+cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https://registry.archiveforge.org/registry/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
 
 test badge green spectrumWithNMReDATA.json
 
