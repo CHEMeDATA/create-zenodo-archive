@@ -9,8 +9,6 @@ AcmeSoft. V1.
 [Derived data](https://chemedata.github.io/create-zenodo-archive/)
 [Derived data](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix)
 
-old obsolete cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#chemobjectName_hashCodeOfCyclopropane)
-
 new chekc work cyclopropanes [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemWithStructure.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#chemobjectName_hashCodeOfCyclopropane)
 
 or ??
