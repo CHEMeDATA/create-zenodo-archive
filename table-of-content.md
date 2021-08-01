@@ -1,4 +1,5 @@
-Files identified by John Doe using [ArchiveForge ***Pro***](https://archiveforge.github.io/) or  [ArchiveForge *Light*](https://archiveforge.github.io/) v0.1.
+Files identified for John Doe using [ArchiveForge ***Pro***](https://archiveforge.github.io/) or  [ArchiveForge *Light*](https://archiveforge.github.io/) v0.1.
+and (when relevant) with manual curation/validation/correction/edition...
 
 Source of data: [Jeannerat, Damien. (2021). Chemistry data identification report [Data set].](https://doi.org/10.5281/zenodo.4973418)
 
@@ -7,7 +8,7 @@ Related publication: [D. Jeannerat, C. Cobas, ***Magn. Reson***. *2021*, **2**, 
 Keyfile|Derived data
 -----|----
  [1](https://connect.archiveforge.org/connect?keyfileTO-Be_insertedHere)| [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemNoData.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
- [2](https://connect.archiveforge.org/connect?keyfileTO-Be_insertedHere) | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemNoData.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#cyclopropanes)
+ [2](https://connect.archiveforge.org/connect?keyfileTO-Be_insertedHere) | [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/chemNoData.json)](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix#menthol)
 
 [All derived data](https://registry.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix)
 
