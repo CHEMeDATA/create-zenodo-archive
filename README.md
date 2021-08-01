@@ -1,4 +1,10 @@
+As of Aug 1st:
+
+[https://sandbox.zenodo.org/record/891528](https://sandbox.zenodo.org/record/891528)
+
 As of Tuesday evening:
+
+
 [https://sandbox.zenodo.org/record/885399](https://sandbox.zenodo.org/record/885399)
 This will be displayed inside the zenodo window but comes from githug gitpage.
 To get full webpage, open a new window from here... (see example below).
