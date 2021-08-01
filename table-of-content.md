@@ -1,5 +1,5 @@
 Files identified for John Doe using [ArchiveForge ***Pro***](https://archiveforge.github.io/) or  [ArchiveForge *Light*](https://archiveforge.github.io/) v0.1.
-and (when relevant) with manual curation/validation/correction/edition...
+and (when relevant) with manual curation/validation/correction/edition by ...
 
 Source of data: [Jeannerat, Damien. (2021). Chemistry data identification report [Data set].](https://doi.org/10.5281/zenodo.4973418)
 
