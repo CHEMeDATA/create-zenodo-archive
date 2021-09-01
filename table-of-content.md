@@ -4,6 +4,23 @@ and (when relevant) with manual curation/validation/correction/edition by ...
 Source of data: [Jeannerat, Damien. (2021). Chemistry data identification report [Data set].](https://doi.org/10.5281/zenodo.4973418)
 
 Related publication: [D. Jeannerat, C. Cobas, ***Magn. Reson***. *2021*, **2**, 545-555.](https://doi.org/10.5194/mr-2-545-2021)  [(direct download)](https://doi.org/10.5194/mr-2021-32)
+
+## Open all files with NMRium 
+
+New: should work but does not:
+
+ALL spectra :
+https://www.nmrium.org/nmrium#?toc=_BUCKET_URL_%2Findex.json
+
+ONLY ONE:
+https://www.nmrium.org/nmrium#?_BUCKET_URL_%2F1h.jdx
+
+
+Reference using other dataset which works:
+
+https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fcheminfo.github.io%2Fnmr-dataset3%2Fmultiplet%2Findex.json
+https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fsandbox.zenodo.org%2Fapi%2Ffiles%2F31f3202a-de6a-4512-bf9c-b6dd8b893a86%2Findex.json
+https://cheminfo.github.io/nmr-dataset3/multiplet/index.json
 ## Table of Content 
 Keyfile|Derived data
 -----|----
